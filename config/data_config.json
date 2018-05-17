@@ -1,0 +1,5 @@
+{
+  "remote.data.address": "tcp://data.tushare.org:8910",
+  "remote.data.username": "18123746939",
+  "remote.data.password": "eyJhbGciOiJIUzI1NiJ9.eyJjcmVhdGVfdGltZSI6IjE1MjQyODA4NTI3MzAiLCJpc3MiOiJhdXRoMCIsImlkIjoiMTgxMjM3NDY5MzkifQ.6s0fxnjJwnevGuj9P93k9r8Y0Qx21NAG96OVFBCMdjw"
+}

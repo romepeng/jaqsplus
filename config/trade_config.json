@@ -1,0 +1,5 @@
+{
+  "remote.trade.address": "tcp://gw.quantos.org:8901",
+  "remote.trade.username": "18123746939",
+  "remote.trade.password": "eyJhbGciOiJIUzI1NiJ9.eyJjcmVhdGVfdGltZSI6IjE1MjQyODA4NTI3MzAiLCJpc3MiOiJhdXRoMCIsImlkIjoiMTgxMjM3NDY5MzkifQ.6s0fxnjJwnevGuj9P93k9r8Y0Qx21NAG96OVFBCMdjw"
+}
