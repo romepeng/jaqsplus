@@ -329,7 +329,7 @@ if __name__ == "__main__":
     ds.init_from_config(data_config)
     
     g = globals()
-    print(g)
+    #print(g)
     g = {k: v for k, v in g.items() if k.startswith('test_') and callable(v)}
     #print(g)
     for test_name, test_func in g.items():

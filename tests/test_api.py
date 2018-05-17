@@ -7,7 +7,7 @@ import jaqs.util as jutil
 from config_path import DATA_CONFIG_PATH
 
 data_config = jutil.read_json(DATA_CONFIG_PATH)
-#print(data_config)
+print(data_config)
 
 def test_data_api():
     address = data_config.get("remote.data.address", None)
@@ -37,5 +37,5 @@ def test_data_api():
     
 
 if __name__ == "__main__":
-
     test_data_api()
+    

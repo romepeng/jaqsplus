@@ -37,7 +37,7 @@ def test_save_dataview(sub_folder='test_dataview'):
     ds.init_from_config(data_config)
     dv = DataView()
     
-    props = {'start_date': 20150101, 'end_date': 20170930, 'universe': '000905.SH',
+    props = {'start_date': 20170101, 'end_date': 20180516, 'universe': '000905.SH',
              'fields': ('float_mv,tot_shrhldr_eqy_excl_min_int,deferred_tax_assets,sw2'),
              'freq': 1}
     
